@@ -13,7 +13,7 @@ Os trê maiores elementos do vetor devem ser impressos na saída padrão arredon
 
 Os números devem ser impressor separados por um espaço em uma única linha terminada com o caratere nova linha '\n'.
 
-Exemplo: "<maior>< ><2o_maior>< ><3o_maior><\n>
+Exemplo: "{maior}{ }{2o_maior}{ }{3o_maior}{\n}"
 
 Siga as instruções nos comentários no código
 
